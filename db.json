@@ -1,0 +1,171 @@
+{
+  "login": [
+    {
+      "id": "admin",
+      "password": "12345",
+      "isactive": "true"
+    }
+  ],
+  "students": [
+    {
+      "name": "",
+      "class": "",
+      "division": "",
+      "subjects": [
+        {
+          "subjectName": "",
+          "marks": 12
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "class": "",
+      "division": "",
+      "subjects": [
+        {
+          "subjectName": "",
+          "marks": 12
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "",
+          "marks": ""
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        },
+        {
+          "subjectName": "",
+          "marks": ""
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "e",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "ref",
+          "marks": 12
+        },
+        {
+          "subjectName": "ss",
+          "marks": 43
+        },
+        {
+          "subjectName": "d",
+          "marks": 12
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "e",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "ref",
+          "marks": 12
+        },
+        {
+          "subjectName": "ss",
+          "marks": 43
+        },
+        {
+          "subjectName": "d",
+          "marks": 12
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "e",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "ref",
+          "marks": 12
+        },
+        {
+          "subjectName": "ss",
+          "marks": 43
+        },
+        {
+          "subjectName": "d",
+          "marks": 12
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "e",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "ref",
+          "marks": 12
+        },
+        {
+          "subjectName": "ss",
+          "marks": 43
+        },
+        {
+          "subjectName": "d",
+          "marks": 12
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "e",
+      "class": 1,
+      "division": 2,
+      "subjects": [
+        {
+          "subjectName": "ref",
+          "marks": 12
+        },
+        {
+          "subjectName": "ss",
+          "marks": 43
+        },
+        {
+          "subjectName": "d",
+          "marks": 12
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
